@@ -56,6 +56,8 @@ Web3 Bot
 ## Deployment Technologies
 
 - Deployed on Ethereum or Arbitrum
+- Deployed with RemixIDE ?
+- Tested with RemixIDE
 - Backend on sql or mongoDB
 
 ## Wireframes
