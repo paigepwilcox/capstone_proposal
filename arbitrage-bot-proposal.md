@@ -40,13 +40,12 @@ Web3 Bot
 
 ## Additional Back-end Technologies (APIs)
 
-- JavaScript
 - Ethers.js
 - Node.js
+- dApp API
 
 ## Other Technologies
 
-- dApp API
 - MetaMask
 
 ## Database 
