@@ -14,6 +14,9 @@ Individual
 - Learn Solidity (Blockchain Development)
 - Learn Ethers.js 
 - Learn Ethereum Blockchain Workings
+- Learn dApp API 
+- Learn MongoDB (maybe)
+- Learn MetaMask innerworkings 
 
 ## Project Description
 
@@ -67,19 +70,6 @@ Web3 Bot
 2. when the bot finds a transaction it will display a success message in the terminal "located"
 3. when the bot completes a transaction it will display a success message in the terminal "traded"
 4. if the transaction fails the bot will display a message in the terminal "failed"
-6. 
-  -  
-7.  a user can see a map with point locations of all seattle parks
-	- the map point locations will indicate (by color or symbol) whether the user has visited the park yet
-	- the user can zoom in and out of the map 
-	- the map also shows the user's current location
-8.  the user can select a park point location, which navigates to a park details page.
-	- if the user is signed in, the park details page shows whether or not the user has been there and a date of visit, if so
-9. a user can sign into the app to see their saved data
-10. the user has an account details/achievements page
-	- the page shows how many parks they have visited
-	- the page shows the points or badges earned
-11. the user can see a page of general info about the game app (how to use, datasets involved, etc.)
 
 ## Stretch Features
 
