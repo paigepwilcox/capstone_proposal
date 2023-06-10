@@ -20,7 +20,7 @@ Individual
 
 ## Project Description
 
-This bot will serve a crucial role to decentralized markets on the blockchain by equalizing coin prices between decentralized exchanges on the Ethreums Blockchain. By way of Solidity smartcontrats, Javascript, and Ethers.js this bot will look for differences in price of Magic token between two Uniswap V3 and Sushi. Once found it will use the lending platform Aave to loan only enough to make the price of the one coin equal between exchanges. The transaction will only take place if the trade makes a profit, and that profit will be stored in a hot wallet -- bots dont work for free. #robotrights
+This bot will serve a crucial role to decentralized markets on the blockchain by equalizing coin prices between decentralized exchanges on the Ethreums Blockchain. By way of Solidity smartcontrats, Javascript, and Ethers.js this bot will look for differences in price of Magic token between UniswapV3 and Sushi Swap. Once found it will use the lending platform Aave to borrow only enough to make the price of the one coin equal between exchanges. The transaction will only take place if the trade makes a profit, and that profit will be stored in a hot wallet -- bots dont work for free. #robotrights
 
 ## Project Type
 
