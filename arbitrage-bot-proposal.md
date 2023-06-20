@@ -3,7 +3,7 @@
 
 ## Project Name
 
-Arbitrage Bot (Flash)
+An Arbitrage Bot Named Flash
 
 ## Individual/Group
 
@@ -14,13 +14,13 @@ Individual
 - Learn Solidity (Blockchain Development)
 - Learn Ethers.js 
 - Learn Ethereum Blockchain Workings
-- Learn dApp API 
-- Learn MongoDB (maybe)
+- Learn Uniswap and Sushiswap API 
+- Learn MongoDB
 - Learn MetaMask innerworkings 
 
 ## Project Description
 
-This bot will serve a crucial role to decentralized markets on the blockchain by equalizing coin prices between decentralized exchanges on the Ethreums Blockchain. By way of Solidity smartcontrats, Javascript, and Ethers.js this bot will look for differences in price of Magic token between UniswapV3 and Sushi Swap. Once found it will use the lending platform Aave to borrow only enough to make the price of the one coin equal between exchanges. The transaction will only take place if the trade makes a profit, and that profit will be stored in a hot wallet -- bots dont work for free. #robotrights
+This bot will serve a crucial role to decentralized markets on the blockchain by equalizing coin prices between decentralized exchanges on (specifically) Ethreums Blockchain. By way of Solidity smartcontrats, Javascript, Ethers.js, and MongoDB this bot will look for differences in price of Magic token between UniswapV3 and Sushi Swap. Once found it will use the lending platform Aave to borrow only enough to make the price of the one coin equal between exchanges. The transaction will only take place if the trade makes a profit, and that profit will be stored in a hot wallet (Metamask) -- bots dont work for free. #robotrights
 
 ## Project Type
 
@@ -38,11 +38,12 @@ Web3 Bot
 
 - Solidity
 
-## Additional Back-end Technologies (APIs)
+## Additional Back-end Technologies
 
 - Ethers.js
 - Node.js
-- dApp API
+- Uniswap API
+- Sushi Swap API
 
 ## Other Technologies
 
@@ -60,10 +61,10 @@ Web3 Bot
 - Tested with RemixIDE
 - Backend on sql or mongoDB
 
-## Wireframes
+## Wireframes -- NOT MADE YET 
 
-- [Wireframes](https://drive.google.com/drive/folders/1esk8qN2Lwl4Vn7ecCTkKdhQVsIzwtTZS)
-- [High-level Wireframe](https://imgur.com/YUvCxY4)
+- [Wireframes]
+- [High-level Wireframe]
 
 ## MVP Feature Set
 
