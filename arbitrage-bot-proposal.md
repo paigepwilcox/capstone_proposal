@@ -15,7 +15,6 @@ Individual
 - Learn Ethers.js 
 - Learn Ethereum Blockchain Workings
 - Learn Uniswap and Sushiswap API 
-- Learn MongoDB
 - Learn MetaMask innerworkings 
 
 ## Project Description
@@ -48,23 +47,22 @@ Web3 Bot
 ## Other Technologies
 
 - MetaMask
+- Hardhat
 
 ## Database 
 
-- MongoDB Atlas (blockchain database)
-- SQL or MongoDB
+- Ethereum Blockchain
 
 ## Deployment Technologies
 
 - Deployed on Ethereum or Arbitrum
-- Deployed with RemixIDE ?
 - Tested with RemixIDE
-- Backend on sql or mongoDB
+- Foundary for unit tests
 
 ## Wireframes -- NOT MADE YET 
 
-- [Wireframes]
-- [High-level Wireframe]
+- [![Wireframe](https://github.com/paigepwilcox/capstone_proposal/assets/121448052/782f2b1a-713a-4824-b330-ffa8f3c6f3d5)
+]
 
 ## MVP Feature Set
 
@@ -75,6 +73,11 @@ Web3 Bot
 
 ## Stretch Features
 
+Back-end
+1. Make a triple trade.
+
+
+Front-end
 1. Front-end showing a live feed of the current price of Magic token on Uniswap V3 and Sushi Swap.
 2. Display a Start button
 3. After clicking the start:
